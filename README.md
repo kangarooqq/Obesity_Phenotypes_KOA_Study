@@ -42,7 +42,7 @@ install.packages(c("dplyr", "tidyr", "survival", "survminer", "rms", "gtsummary"
                    
 Running the Pipeline
 Data Preparation: Place your raw charls.dta file in the project root directory.
-Execution: Execute the scripts in numeric order from 01 to 10.
+Execution: Execute the scripts in numeric order from 01 to 12.
 Reproducibility: Ensure your working directory is set to the project root. The scripts are designed to save high-quality publication-ready plots (PDF/TIFF) directly to the output folder.
 
 Authors
