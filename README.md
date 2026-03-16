@@ -27,8 +27,13 @@ Script	Description
 
 **10_Clinical_Prediction_Model_Nomogram**.R	Development of the clinical nomogram, calibration, and Brier score validation.
 
+**11_DCA_Analysis**.R Decision Curve Analysis (DCA) for the WHtR-based nomogram.
+
+**12_NRI_IDI_Analysis**.R Calculate continuous Net Reclassification Improvement (NRI) and Integrated Discrimination Improvement (IDI) for model comparison.
+
 **Prerequisites**
 To run these scripts, you will need the following R packages installed:
+
 code
 **R**
 install.packages(c("dplyr", "tidyr", "survival", "survminer", "rms", "gtsummary", 
