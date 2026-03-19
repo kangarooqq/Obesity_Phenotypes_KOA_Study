@@ -13,7 +13,7 @@ Script	Description
 
 **03_Obesity_Comparison**.R	Comparative analysis of the four obesity indices.
 
-**04_Quartile_DoseResponse**.R	Quartile-based trend analysis and initial dose-response patterns.
+**04_WHtR_Analysis**.R	Deep-dive into WHtR: non-linear RCS modeling & subgroup analysis.
 
 **05_ABSI_Analysis**.R	Deep-dive into ABSI: non-linear RCS modeling & subgroup analysis.
 
